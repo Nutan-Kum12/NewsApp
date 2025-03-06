@@ -10,30 +10,25 @@ The **News App** is a mobile application that provides users with the latest new
 - **Bookmarks**: Save articles for later reading.
 - **Offline Mode**: Read saved articles without an internet connection.
 
-
 ## Technologies Used
 - **Flutter**: Cross-platform framework for smooth UI.
 - **Firebase**: Used for authentication and backend services.
 - **REST API**: Fetching news data from an external API.
 - **Provider**: For state management.
 
-
 ## Screenshots & Videos
 ### App Screenshots
-Include screenshots of the app here:
-![Login Screen](assets/login.jpg)
-![Register Screen](assets/register.jpg)
-![Home Screen](assets/home.jpg)
-![Article View](assets/article.jpg)
-![BookMark Page](assets/bookmark.jpg)
-![Article WebView](assets/webpage.jpg)
-![Profile Screen](assets/profile.jpg)
+| ![Login Screen](assets/login.jpg) | ![Register Screen](assets/register.jpg) | ![Home Screen](assets/home.jpg) |
+|------------|------------|------------|
+| Login Screen | Register Screen | Home Screen |
+
+| ![Article View](assets/article.jpg) | ![Bookmark Page](assets/bookmark.jpg) | ![Article WebView](assets/webpage.jpg) | ![Profile Screen](assets/profile.jpg) |
+|------------|------------|------------|------------|
+| Article View | Bookmark Page | Article WebView | Profile Screen |
 
 ### Demo Video
 Watch a demo of the app:
-![Watch Video][def]
-
-
+[![Watch Video](assets/newsvdo.mp4)](assets/newsvdo.mp4)
 
 ## Installation
 1. Clone the repository:
@@ -53,14 +48,9 @@ Watch a demo of the app:
    flutter run
    ```
 
-
-
 ## License
 This project is licensed under the **MIT License**.
 
 ## Contact
 For any inquiries, feel free to contact us at **your-email@example.com**.
 
-
-
-[def]: assets/newsvdo.mp4
